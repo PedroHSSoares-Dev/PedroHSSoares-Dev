@@ -61,6 +61,8 @@
 
 <hr>
 
+![Snake animation](https://github.com/PedroHSSoares-Dev)
+
 ## 📌 Sobre Mim
 
 <table>
